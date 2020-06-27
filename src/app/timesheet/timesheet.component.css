@@ -1,0 +1,52 @@
+@import url(https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css);
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700);
+body,
+h1 {
+    font-family: Calligraffitti;
+    font-size: 49px;
+    font-style: italic;
+    font-variant: small-caps;
+    font-weight: 100;
+    line-height: 49px;
+}
+
+h1 {
+    font-weight: 50;
+    text-align: center;
+}
+
+h3 {
+    font-family: Calligraffitti;
+    font-size: 24px;
+    font-style: normal;
+    font-variant: small-caps;
+    font-weight: 700;
+    line-height: 14px;
+}
+
+p {
+    font-family: Calligraffitti;
+    font-size: 24px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+blockquote {
+    font-family: Calligraffitti;
+    font-size: 21px;
+    font-style: italic;
+    font-variant: small-caps;
+    font-weight: 700;
+    line-height: 21px;
+}
+
+pre {
+    font-family: Calligraffitti;
+    font-size: 13px;
+    font-style: italic;
+    font-variant: small-caps;
+    font-weight: 700;
+    line-height: 13px;
+}
